@@ -1,0 +1,22 @@
+{
+  "name": "files",
+  "version": "1.0.0",
+  "description": "Springboard Exercise Node Files",
+  "main": "step1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianabreaux-SpringboardExercises/Node_Files.git"
+  },
+  "author": "Briana Breaux",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianabreaux-SpringboardExercises/Node_Files/issues"
+  },
+  "homepage": "https://github.com/brianabreaux-SpringboardExercises/Node_Files#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
